@@ -1,0 +1,30 @@
+[ 2016-12-20T10:52:02+08:00 ] 117.136.0.140 /tp/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.017200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.092192s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-20T10:52:17+08:00 ] 101.226.33.240 /tp/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006551s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024154s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-20T10:52:17+08:00 ] 180.153.205.252 /tp/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006496s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023896s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-20T10:52:18+08:00 ] 180.153.206.18 /tp/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003357s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024582s ]
+ERR: 无法加载模块:Public
+
+[ 2016-12-20T10:52:21+08:00 ] 180.153.206.24 /tp/Public/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.022662s ]
+INFO: [ app_init ] --END-- [ RunTime:0.109705s ]
+ERR: 无法加载模块:Public
+

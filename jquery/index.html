@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <script src="./public/js/jquery-3.1.0.js"></script>
+    <title>jquery</title>
+</head>
+<body>
+<button id="btn"  >发送一个ajax请求</button>
+<div id="div1"></div>
+</body>
+<script>
+     //1 打印输出的第一种方式
+    /*$(document).ready(function(){
+
+        //alert("欢迎来到jquery世界");
+        document.writeln("<font size='30px'>欢迎来到jquery世界</font>");
+    });*/
+
+    //2 打印的第二种方式
+    /*$(function() {
+
+        alert("欢迎来到jquery世界");
+    })*/
+
+
+     $("#btn").click(function(){
+             //get方式请求
+         /*$.get("demo.php",{'username':'魏龙云','age':'18'},function(data){
+
+
+              $("#div1").html(data);
+
+         });*/
+
+         //post方式请求异步加载
+        /* $.post("demo.php",{'username':'魏龙云','age':'18'},function(data){
+
+             $("#div1").html(data);
+         });*/
+
+         //ajax异步请求 包含get和post
+         $.ajax({
+             'url':'demo.php',
+             'data':{'username':'魏龙云','age':'18'},
+             'success':function(data){
+
+                 $("#div1").html(data);
+
+             },
+             'dataType':'html',
+             'type':'post'
+         });
+
+     });
+
+
+
+</script>
+
+</html>

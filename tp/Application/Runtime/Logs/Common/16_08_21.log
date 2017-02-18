@@ -1,0 +1,12 @@
+[ 2016-08-21T10:36:39+08:00 ] 125.223.2.59 /tp/public/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-21T20:47:55+08:00 ] 125.223.2.59 /tp/index.php/Uesr/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+ERR: 无法加载模块:Uesr
+

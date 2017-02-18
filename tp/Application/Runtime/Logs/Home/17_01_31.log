@@ -1,0 +1,99 @@
+[ 2017-01-31T09:23:31+08:00 ] 58.247.206.158 /tp/index.php?signature=c11c6cf940aaeeb3e88a53f2ee1cdf9d1d9af0f1&timestamp=1485688516&nonce=1476196010&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.049218s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.143 /tp/index.php?signature=6f6dff2b04819fbc7e5d666e9a36091feed9b520&timestamp=1485688524&nonce=741733118&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.149 /tp/index.php?signature=ac01c3e740e2957a4b00b0adce40acdbdaefb000&timestamp=1485688530&nonce=1025839170&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.143 /tp/index.php?signature=6f6dff2b04819fbc7e5d666e9a36091feed9b520&timestamp=1485688524&nonce=741733118&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.143 /tp/index.php?signature=ac01c3e740e2957a4b00b0adce40acdbdaefb000&timestamp=1485688530&nonce=1025839170&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.153 /tp/index.php?signature=ac01c3e740e2957a4b00b0adce40acdbdaefb000&timestamp=1485688530&nonce=1025839170&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.148 /tp/index.php?signature=c11c6cf940aaeeb3e88a53f2ee1cdf9d1d9af0f1&timestamp=1485688516&nonce=1476196010&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2017-01-31T09:23:32+08:00 ] 58.247.206.148 /tp/index.php?signature=6f6dff2b04819fbc7e5d666e9a36091feed9b520&timestamp=1485688524&nonce=741733118&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000229s ]
+
+[ 2017-01-31T10:53:25+08:00 ] 58.247.206.158 /tp/index.php?signature=c11c6cf940aaeeb3e88a53f2ee1cdf9d1d9af0f1&timestamp=1485688516&nonce=1476196010&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:2,215.181396s ]
+INFO: [ app_end ] --END-- [ RunTime:2,215.227830s ]
+

@@ -1,0 +1,2868 @@
+[ 2016-08-21T10:27:56+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T10:27:58+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=041BcmqX0uj2tP1TJIrX0AltqX0Bcmq-&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000171s ]
+
+[ 2016-08-21T10:36:56+08:00 ] 125.223.2.59 /tp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: timestamp /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-08-21T10:37:17+08:00 ] 125.223.2.59 /tp/index.php/Home/index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T10:37:22+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T10:37:25+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=011Y38Wa2FZLTB0fVgWa2AYaWa2Y38WR&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+
+[ 2016-08-21T10:38:55+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+ERR: 参数错误或者未定义:wechat
+
+[ 2016-08-21T10:41:05+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2016-08-21T10:41:08+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=031PFs6503xL7x16zD4501Bn650PFs6x&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-08-21T10:42:05+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T10:42:08+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001WXOF91StkLU1QjKG91hXJF91WXOF-&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-08-21T10:52:21+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T10:52:24+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=041RkD2d1oHnCo0PpZ2d1ocG2d1RkD2k&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T10:53:14+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-08-21T10:53:17+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001L6KdZ07CrDN1v8BaZ0gfJdZ0L6Kds&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T10:54:22+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T10:54:25+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=021oe1gf2WFqeP0hHxif2AYZff2oe1gt&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T10:56:30+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T10:56:33+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=0216AaC12EX5Q21dk3F12rY5C126AaCR&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云') [ RunTime:0.0175s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2016-08-21T10:57:53+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T10:57:55+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=041saHSh1vMojk0aKuQh1lACSh1saHSq&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T10:59:10+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-08-21T10:59:13+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001xYS0p0nHcEc1Y0c2p0DtN0p0xYS0C&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T10:59:50+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-08-21T10:59:52+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001BT7g00hpDmB13Rvg00Om8g00BT7gu&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T11:00:47+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2016-08-21T11:00:51+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T11:00:54+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=011yVXax0NgOAm1KyT8x0XSWax0yVXaG&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T11:01:38+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-08-21T11:01:41+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001kHAG80NLmYs1mTHG80RxGG80kHAG6&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云') [ RunTime:0.0068s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2016-08-21T11:01:58+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2016-08-21T11:02:01+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=001ybri522ZExH0vkWl52Gxwi52ybrix&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T11:02:23+08:00 ] 125.223.2.157 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-08-21T11:02:27+08:00 ] 125.223.2.157 /tp/index.php/Home/Index/WebUsers?code=02157mFg1liDvl0sqDEg1BwhFg157mFc&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxKZ9Dh6lLglVJ-Gtm6tFCzc','谁杀了我的奶牛')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxKZ9Dh6lLglVJ-Gtm6tFCzc','谁杀了我的奶牛')
+
+[ 2016-08-21T11:19:55+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T11:19:58+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=041tRRQl1Yt8vy0YhLOl10VTQl1tRRQL&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云')
+
+[ 2016-08-21T11:26:28+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-08-21T11:26:31+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=021TSYAy01U3Kl1MYRyy0WxWAy0TSYAw&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云') [ RunTime:0.0135s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2016-08-21T11:26:33+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T11:26:36+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=031oaJSW1seRa81oNvSW1yMJSW1oaJSR&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxLXh4udnNAsqSbufkj7me9g','魏龙云') [ RunTime:0.0104s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2016-08-21T11:26:45+08:00 ] 125.223.2.157 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T11:26:48+08:00 ] 125.223.2.157 /tp/index.php/Home/Index/WebUsers?code=021EP4h40QR0Vx1p59i40RL1h40EP4h0&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxKZ9Dh6lLglVJ-Gtm6tFCzc','谁杀了我的奶牛') [ RunTime:0.0061s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-08-21T14:29:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:31:25+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:31:32+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:32:03+08:00 ] 125.223.2.59 /tp/index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: timestamp /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: nonce /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 299 行.
+NOTIC: [8] Undefined index: signature /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 300 行.
+
+[ 2016-08-21T14:32:45+08:00 ] 125.223.2.59 /tp/index.php/Home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:33:21+08:00 ] 125.223.2.59 /tp/index.php/Home/index/WebUsers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+NOTIC: [8] Undefined index: code /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 91 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-08-21T14:33:32+08:00 ] 125.223.2.59 /tp/index.php/Home/index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T14:33:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:56+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:57+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:34:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:01+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:01+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:01+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:02+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:02+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:07+08:00 ] 125.223.2.59 /tp/index.php/Home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:35:14+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:36:23+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:36:29+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:37:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:38:21+08:00 ] 125.223.2.59 /tp/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:39:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:02+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:04+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:06+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:06+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载控制器:User
+
+[ 2016-08-21T14:41:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2016-08-21T14:42:14+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:getAllgroup
+
+[ 2016-08-21T14:43:50+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:45:52+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:46:28+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T14:49:03+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:52:49+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+
+[ 2016-08-21T14:54:30+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:02+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:03+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:03+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:04+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:04+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:04+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:06+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T14:58:06+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:00:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:41+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:42+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:42+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:06:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:14:32+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appsecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:15:33+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:15:33+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:32+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:33+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:33+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:33+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:34+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:34+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:34+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:34+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 13 行.
+
+[ 2016-08-21T15:16:57+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T15:17:28+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T15:17:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T15:17:36+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+
+[ 2016-08-21T15:17:48+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:23:21+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:24:28+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:24:46+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+
+[ 2016-08-21T15:28:45+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+
+[ 2016-08-21T15:29:49+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:29:50+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:29:50+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 15 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:21+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:22+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:22+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:22+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:23+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:23+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:23+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:32:23+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:34:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-08-21T15:34:48+08:00 ] 125.223.2.59 /tp/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:index
+
+[ 2016-08-21T15:35:11+08:00 ] 125.223.2.59 /tp/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:index
+
+[ 2016-08-21T15:35:54+08:00 ] 125.223.2.59 /tp/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:36:03+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:36:05+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:43:16+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-08-21T15:44:59+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2016-08-21T15:45:00+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2016-08-21T15:45:18+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:50:22+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+
+[ 2016-08-21T15:52:17+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T15:53:06+08:00 ] 125.223.2.59 /tp/index.php/Home/User/selectGroupsGet
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 47 行.
+ERR: 非法操作:selectGroupsGet
+
+[ 2016-08-21T15:53:26+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000186s ]
+
+[ 2016-08-21T15:55:04+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 16 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:56:35+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $access_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 42 行.
+NOTIC: [8] Undefined variable: access_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-08-21T15:57:40+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined variable: appid /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 39 行.
+NOTIC: [8] Undefined variable: appSecret /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 39 行.
+ERR: 缺少参数 APP_ID 和 APP_SECRET!
+
+[ 2016-08-21T15:57:57+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $access_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: access_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 44 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2016-08-21T15:59:10+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-08-21T15:59:41+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+
+[ 2016-08-21T15:59:43+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-08-21T15:59:47+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2016-08-21T15:59:54+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000192s ]
+
+[ 2016-08-21T16:00:09+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2016-08-21T16:09:20+08:00 ] 125.223.2.59 /tp/index.php/Home/User/createfenzu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+
+[ 2016-08-21T16:10:29+08:00 ] 125.223.2.59 /tp/index.php/Home/User/createfenzu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-08-21T16:11:02+08:00 ] 125.223.2.59 /tp/index.php/Home/User/createfenzu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+
+[ 2016-08-21T16:11:27+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2016-08-21T16:22:14+08:00 ] 125.223.2.59 /tp/index.php/Home/User/Group
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2016-08-21T16:22:58+08:00 ] 125.223.2.59 /tp/index.php/Home/User/getAllgroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000200s ]
+
+[ 2016-08-21T17:24:28+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-08-21T17:26:00+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-08-21T17:26:02+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-08-21T17:27:28+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T17:28:04+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T17:29:23+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T17:30:15+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T17:30:17+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T17:30:18+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T17:30:18+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+
+[ 2016-08-21T17:30:18+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T17:30:25+08:00 ] 111.40.201.22 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-08-21T17:31:06+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-08-21T17:31:28+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-08-21T17:32:29+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000192s ]
+
+[ 2016-08-21T17:34:25+08:00 ] 58.247.206.158 /tp/index.php?signature=ae0869793c86c599c9a01012c544d404a5bafd94&timestamp=1471772065&nonce=352449325&openid=oJaCKxM2bYP4KM6gD2-TqWTpGXcg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2016-08-21T17:35:52+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T17:35:52+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2016-08-21T17:35:56+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=031CUG3f2XfQWP0rAA2f2CcJ3f2CUG3C&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxM2bYP4KM6gD2-TqWTpGXcg','屁哥') [ RunTime:0.0362s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2016-08-21T17:36:01+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=031CUG3f2XfQWP0rAA2f2CcJ3f2CUG3C&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+ERR: invalid code, hints: [ req_id: o0161ns90 ]
+
+[ 2016-08-21T17:36:36+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000203s ]
+
+[ 2016-08-21T17:37:30+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+
+[ 2016-08-21T17:37:32+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2016-08-21T17:37:50+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000190s ]
+
+[ 2016-08-21T17:37:53+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2016-08-21T17:37:55+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000204s ]
+
+[ 2016-08-21T17:37:58+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-08-21T17:37:59+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers/iscode/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2016-08-21T17:38:02+08:00 ] 125.223.2.59 /tp/index.php/Home/Index/WebUsers?code=0215L7O11vniE22mZQN11SU2O115L7Or&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined index: iscode /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 82 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: INSERT INTO `users` (`openid`,`nickname`) VALUES ('oJaCKxM2bYP4KM6gD2-TqWTpGXcg','屁哥') [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant openid - assumed 'openid' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /alidata/www/mywechat/tp/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2016-08-21T17:38:20+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-08-21T17:38:21+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-08-21T17:38:23+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2016-08-21T17:38:24+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2016-08-21T17:44:25+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2016-08-21T17:56:30+08:00 ] 140.207.54.80 /tp/index.php?signature=30ee695314880e9fa8c5e29899d1c080c2b32e82&timestamp=1471773389&nonce=596461238&openid=oJaCKxKZ9Dh6lLglVJ-Gtm6tFCzc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T17:57:07+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2016-08-21T17:57:10+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000194s ]
+
+[ 2016-08-21T17:57:11+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000175s ]
+
+[ 2016-08-21T17:57:13+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/yulanqunfa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `users` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2016-08-21T20:05:03+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_arcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+ERR: 非法操作:forever_arcode
+
+[ 2016-08-21T20:05:34+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_arcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+ERR: 非法操作:forever_arcode
+
+[ 2016-08-21T20:05:38+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2016-08-21T20:07:36+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-08-21T20:08:59+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T20:09:17+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T20:09:49+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+
+[ 2016-08-21T20:10:36+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+
+[ 2016-08-21T20:10:38+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+
+[ 2016-08-21T20:10:38+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T20:10:38+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T20:12:09+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-08-21T20:17:30+08:00 ] 58.247.206.147 /tp/index.php?signature=f20dd884860354d756e7bb6158f618eee4b3d7de&timestamp=1471781850&nonce=1872237483&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T20:17:45+08:00 ] 58.247.206.152 /tp/index.php?signature=9baae88a4f5788506ab75e9dd28315da865ac81d&timestamp=1471781865&nonce=1390882410&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2016-08-21T20:19:14+08:00 ] 58.247.206.141 /tp/index.php?signature=a5fd237c91775b2129b3acecab992aef41f64e86&timestamp=1471781954&nonce=571767865&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2016-08-21T20:19:27+08:00 ] 58.247.206.152 /tp/index.php?signature=b08aad12a18db552dc99febd463596e85bab5a90&timestamp=1471781966&nonce=327660124&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2016-08-21T20:20:15+08:00 ] 58.247.206.152 /tp/index.php?signature=d7dc61e63900a5b20890383808bdea9f6e9e3ca1&timestamp=1471782015&nonce=367306931&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2016-08-21T20:21:18+08:00 ] 58.247.206.147 /tp/index.php?signature=1c11514852087f1af38a44083fc75ef580a1825f&timestamp=1471782078&nonce=1302412045&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-08-21T20:22:37+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/forever_qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2016-08-21T20:22:44+08:00 ] 58.247.206.147 /tp/index.php?signature=5031522fe4f2d2f51a16a8118a1055fdb6f6c8b4&timestamp=1471782164&nonce=685446881&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T20:22:53+08:00 ] 58.247.206.142 /tp/index.php?signature=cf75aaa9ec10669c04bac0e958c5a17ed55d54a8&timestamp=1471782173&nonce=1342217649&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T20:23:01+08:00 ] 58.247.206.147 /tp/index.php?signature=a73d32eb438931a41da90c0d36ad3ea92070851b&timestamp=1471782180&nonce=115340671&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-08-21T20:24:32+08:00 ] 58.247.206.147 /tp/index.php?signature=95d5c50567b29781255a5cbf00f263342bb00608&timestamp=1471782272&nonce=1376015859&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
+[ 2016-08-21T20:25:13+08:00 ] 58.247.206.156 /tp/index.php?signature=81c2ae44356da192cfbc79f94f1481d431831320&timestamp=1471782313&nonce=211071873&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2016-08-21T20:25:53+08:00 ] 58.247.206.142 /tp/index.php?signature=f4e41e5b5a9d2ac81d89e12fb73e63a46f0af3e0&timestamp=1471782353&nonce=1841777727&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2016-08-21T20:26:05+08:00 ] 58.247.206.152 /tp/index.php?signature=ed00d24f4e100a7136b9be3801e4ea2c9dfc77da&timestamp=1471782365&nonce=1194737002&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2016-08-21T20:27:20+08:00 ] 58.247.206.142 /tp/index.php?signature=33573a57722aa70a5eef6eab2f116bebc2ea4e04&timestamp=1471782440&nonce=1537354890&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-08-21T20:27:30+08:00 ] 58.247.206.147 /tp/index.php?signature=17e3e4b1bbd5b265fd3b6400eb6097088b916097&timestamp=1471782450&nonce=630530018&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+
+[ 2016-08-21T20:28:00+08:00 ] 58.247.206.155 /tp/index.php?signature=74bd487f0fcb88c126979591fda5abeb592e0083&timestamp=1471782480&nonce=164148834&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-08-21T20:28:11+08:00 ] 58.247.206.147 /tp/index.php?signature=18cfa0fa78a3da79ea3222ddbb0209312b9dc7a0&timestamp=1471782491&nonce=645844943&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Use of undefined constant self - assumed 'self' /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-08-21T20:28:28+08:00 ] 58.247.206.157 /tp/index.php?signature=282e3e91b1519534b37249e8953b32073b3aa752&timestamp=1471782508&nonce=884653783&openid=oJaCKxLXh4udnNAsqSbufkj7me9g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant self - assumed 'self' /alidata/www/mywechat/tp/ThinkPHP/Library/Com/Wechat.class.php 第 156 行.
+
+[ 2016-08-21T20:48:06+08:00 ] 125.223.2.59 /tp/index.php/Home/Uesr/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载控制器:Uesr
+
+[ 2016-08-21T20:48:15+08:00 ] 125.223.2.59 /tp/index.php/Home/User/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+ERR: 非法操作:long_short
+
+[ 2016-08-21T20:49:47+08:00 ] 125.223.2.59 /tp/index.php/Home/User/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/UserController.class.php 第 24 行.
+ERR: 非法操作:long_short
+
+[ 2016-08-21T20:50:57+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-08-21T20:52:05+08:00 ] 125.223.2.59 /tp/index.php/Home/Yulanqunfa/long_short
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: expries_in /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 20 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /alidata/www/mywechat/tp/ThinkPHP/Common/functions.php 第 1263 行.
+NOTIC: [8] Undefined index: $accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: accsess_token /alidata/www/mywechat/tp/Application/Home/Controller/YulanqunfaController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+

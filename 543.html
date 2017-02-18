@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> -->
+	<title>下载：ThinkPHP3.2.2完整版 - ThinkPHP框架</title>
+	<meta name="keywords" content=""/>
+	<meta name="description" content=""/>
+	<meta property="wb:webmaster" content="06779971d6009b5a" />
+	<link rel="alternate" type="application/rss+xml" title="ThinkPHP官方资讯" href="/rss/index.xml" />
+	<link href="/Public/favicon.ico" rel="shortcut icon">
+	<link rel="stylesheet" type="text/css" href="/Public/new/css/base.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/Public/new/css/header.css?v1.000" media="all">
+	<link rel="stylesheet" type="text/css" href="/Public/new/css/module.css?v1.008" media="all">
+	<link rel="stylesheet" href="/Public/common/ThinkBox/skin/default/style.css">
+	<link rel="stylesheet" href="/Public/new/css/img.css">
+	<link rel="stylesheet" type="text/css" href="/Public/common/prettify/prettify.css" />
+	<script type="text/javascript" src="/Public/common/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/Public/common/prettify/prettify.js"></script>
+	<script type="text/javascript" src="/Public/common/zclip/jquery.zclip.min.js"></script>
+	<script type="text/javascript" src="/Public/common/ThinkBox/jquery.ThinkBox.min.js"></script>
+	<script type="text/javascript" src="/Public/common/Validform_v5.3.2.js"></script>
+	<script type="text/javascript" src="/Public/new/js/jquery.masonry.min.js"></script>
+	<script type="text/javascript">
+	$(function(){
+		//翻页快捷键
+		$(document).keyup(function(event){
+			if(event.keyCode == 37){
+				$('.prev span').click();
+			}else if(event.keyCode == 39){
+				$('.next span').click();
+			}
+		});
+
+		//阻止事件的冒泡
+		$(':text,textarea').keyup(function(event){
+			event.stopPropagation();
+		});
+
+		$("#header-search").hover(function(){
+			$("#search-sort-list").show();
+		},function(){
+			$("#search-sort-list").hide();
+		});
+		//搜索选项选择
+		$("#search-sort-list li").click(function(){
+			var curTxt = $(this).text();
+			var type = $(this).val();
+			$('#search').val(type);
+			$(this).addClass("current").siblings().removeClass("current");
+			$(this).parent().siblings(".search-sort-txt").text(curTxt);
+			$(this).parent().hide();
+		});
+
+
+		//入口图标菜单
+		$(".entrance").mouseenter(function(){
+			var userMenu = $(this).children(".user-menu");
+			userMenu.show();
+			clearTimeout(userMenu.data("timeout"));
+		}).mouseleave(function(){
+			var userMenu = $(this).children(".user-menu");
+			userMenu.data("timeout") && clearTimeout(userMenu.data("timeout"));
+			userMenu.data("timeout", setTimeout(function(){userMenu.hide()}, 100));
+		});
+
+		$(".user-menu").mouseover(function(){
+			clearTimeout($(this).data("timeout"));
+			$(this).removeData("timeout");
+		});
+
+
+		//返回顶部
+		function gotoTop(min_height){
+		    //预定义返回顶部的html代码，它的css样式默认为不显示
+		    var gotoTop_html = '<div id="gotoTop">返回顶部</div>';
+		    //将返回顶部的html代码插入页面上id为page的元素的末尾
+		    $("body").append(gotoTop_html);
+		    $("#gotoTop").click(//定义返回顶部点击向上滚动的动画
+		        function(){ $('html,body').animate({scrollTop:0},700);
+		    }).hover(//为返回顶部增加鼠标进入的反馈效果，用添加删除css类实现
+		        function(){ $(this).addClass("hover");},
+		        function(){ $(this).removeClass("hover");
+		    });
+
+		    //获取页面的最小高度，无传入值则默认为600像素
+		    min_height ? min_height = min_height : min_height = 600;
+		    //为窗口的scroll事件绑定处理函数
+		    $(window).scroll(function(){
+		        //获取窗口的滚动条的垂直位置
+		        var s = $(window).scrollTop();
+		        //当窗口的滚动条的垂直位置大于页面的最小高度时，让返回顶部元素渐现，否则渐隐
+		        if( s > min_height){
+		            $("#gotoTop").fadeIn(100);
+		        }else{
+		            $("#gotoTop").fadeOut(200);
+		        };
+		    });
+		};
+		gotoTop();
+		//代码高亮
+		$('code').each(function(){
+	        $(this).data('think-source', (this.innerText || this.textContent).replace(/ /g, ' '));
+	    });
+	    prettyPrint();
+	    $('code').each(function(){
+	        var self = $(this);
+	        var copy = $('<div><span>复制代码</span></div>')
+	            .addClass('think-copy')
+	            .appendTo(self)
+	            .zclip({
+	                'path':'/Public/common/zclip/ZeroClipboard.swf',
+	                'afterCopy' : function(){
+	                    $.ThinkBox.success('复制成功');
+	                },
+	                'copy': function(){
+	                    return self.closest('code').data('think-source');
+	                }
+	            });
+	    });
+	  	//每隔一段时间ajax加载提醒
+		setInterval("ajaxGetNotify()", parseInt(120) * 1000);
+		//修改用户名
+		$(document).delegate('.change-name','submit', function(){
+			var ele = $(this);
+			$.post('/user/changeUsername',
+				{'username' : ele.find('input[name=username]').val()},
+				function(data){
+					if(data.status){
+						box.hide();
+						$.ThinkBox.success(data.info);
+					}else{
+						$.ThinkBox.error(data.info);
+					}
+				},
+				'json'
+			);
+			return false;
+		});
+	})
+
+	function ajaxGetNotify(){
+  		$.get('/notify/getNotifyCount',
+			{},
+			function(data){
+				$('#review_num').text(data.review_count);
+				$('#letter_num').text(data.letter_count);
+				if(data.num != 0){
+					$('#all_notify').html("<em>"+data.num+"</em>");
+				}else{
+					$('#all_notify').html("");
+				}
+			},
+			'json'
+		);
+	}
+	var box;
+	</script>
+	<script type="text/javascript" src="/Public/new/js/common.js"></script>
+	<script type="text/javascript" src="/public/checkSyncLogin.html"></script>
+</head>
+<body>
+	<!-- 头部 -->
+	<div class="header">
+		<div class="hd-main cf">
+			<!-- logo -->
+			<h3 class="logo"><a href="/" title="返回首页"></a></h3>
+			<!-- /logo -->
+
+			<!-- 主导航 -->
+			<ul class="main-nav">
+				<li><a href="/">首页</a></li>
+				<li><a href="/down.html">下载</a></li>
+				<li><a href="/extend/index.html">扩展</a></li>
+				<li><a href="http://www.topthink.com/products.html" target="app">应用</a></li>
+				<li><a href="/document/index.html">教程</a></li>
+				<li><a href="/code/index.html">代码</a></li>
+				<li><a href="http://www.topthink.com/group/1525.html" target="case">案例</a></li>
+				<li><a href="http://www.topthink.com/topics.html" target="topic">资讯</a></li>
+				<li><a href="/topic/index.html">讨论</a></li>
+			</ul>
+			<script type="text/javascript">
+            (function(){
+                //导航选中
+                var url = location.pathname, navg = $('.main-nav li');
+                if(url == '/' || url == '/index'){
+                    navg.eq(0).addClass('current');
+                }else if(!url.indexOf('/down')){
+                    navg.eq(1).addClass('current');
+                }else if(!url.indexOf('/extend')){
+                    navg.eq(2).addClass('current');
+                }else if(!url.indexOf('/app')){
+                    navg.eq(3).addClass('current');
+                }else if(!url.indexOf('/info')){
+                    if(!url.indexOf('/info/document') || !url.indexOf('/info/add/cate_id/36') || !url.indexOf('/info/zhuanti')){
+                        navg.eq(4).addClass('current');
+                    }else{
+                        navg.eq(7).addClass('current');
+                    }
+                }else if(!url.indexOf('/code')){
+                    navg.eq(5).addClass('current');
+                }else if(!url.indexOf('/case')){
+                    navg.eq(6).addClass('current');
+                }else if(!url.indexOf('/topic')){
+                    navg.eq(8).addClass('current');
+                }else if(!url.indexOf('/document')){
+                    navg.eq(4).addClass('current');
+                }
+            })()
+            </script>
+			<!-- /主导航 -->
+
+			<div class="header-bar">
+				<!-- 搜索 -->
+				<form action="/Search/" method="post" class="search cf">
+					<div id="header-search" class="search-sort">
+						<span class="search-sort-txt">全部</span><em></em>						<input type="hidden" name="type" id="search" value="10"/>
+						<ul id="search-sort-list" class="search-sort-list">
+							<li value="10">全部</li>
+							<li value="0">资讯</li>
+    						<li value="1">下载</li>
+    						<li value="2">讨论</li>
+    						<li value="6">代码</li>
+    						<li value="3">BUG</li>
+    						<li value="4">建议</li>
+    						<li value="5">更新</li>
+                            <li value="7">应用</li>
+						</ul>
+					</div>
+					<input type="hidden" name="time" value="0">
+					<input type="text" name="name" class="search-input" x-webkit-speech>
+					<a class="search-btn" onclick="$(this).parent().submit();">搜索</a>
+				</form>
+				<!-- /搜索 -->
+				<script type="text/javascript" src="/member/getInfo.html"></script>
+			</div>
+		</div>
+	</div>
+	<div class="changeName" style="display:none;">
+		<form action="/user/changeUsername" method="post" class="change-name">
+			<div class="error-tips"> 系统检测到您的用户名不符合规范：<span></span> </div>
+			<label class="lab">用户名</label>
+			<input type="text" class="text" name="username" datatype="*1-16" errormsg="用户名不超过16个字节" nullmsg="用户名不能为空"/>
+			<input type="submit" value="提交" class="btn">
+		</form>
+	</div>
+<script type="text/javascript" src="http://e.topthink.com/Public/static/client.js"></script>
+<div class="main por cf">
+		<!-- 左边 -->
+		<div class="wrapper">
+			<!-- 捐赠下载 -->
+			<div class="donate-show">
+				<div class="hd" style="height:245px">
+					<div style="margin-top: 20px">
+						ThinkPHP3.2.2完整版					</div>
+					<a class="down" href="/download/543.html" id="down"><b></b>Download Now</a>
+					<div><em id="second">5</em>秒后自动下载...</div>
+					<center><span style="border:1px solid silver"><think id="e558c154a25da79ad"></think></span></center>
+				</div>
+				<div class="bd">
+					<h1>捐赠我们</h1>
+					<p>
+						ThinkPHP一直致力于简化企业和个人的WEB应用开发，你的帮助是对我们最大的支持和动力！我们的团队七年多来一直在坚持不懈地努力，并坚持开源和免费提供使用，帮助开发人员更加方便的进行WEB应用的快速开发，如果您对我们的成果表示认同并且觉得对你有所帮助，我们愿意接受来自各方面的捐赠。
+					</p>
+				</div>
+			</div>
+			
+			<div class="aw720">
+				<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- 首页横幅 -->
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:728px;height:90px"
+				     data-ad-client="ca-pub-2076739524120221"
+				     data-ad-slot="5295221043"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({ });
+				</script>
+			</div>
+			
+			<!-- 热门下载 -->
+			<div class="box feedback">
+				<div class="index-hd cf">
+					<div class="title"><i class="t-icon"></i><em>热门下载</em></div>
+				</div>
+
+				<div class="index-bd">
+					<ul class="list ellipsis">
+						<li>
+								<i class="list-arrow"></i><a href="/down/610/.html" title="ThinkPHP3.2.3完整版" target="_blank">ThinkPHP3.2.3完整版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/338/.html" title="ThinkPHP3.1.3完整版" target="_blank">ThinkPHP3.1.3完整版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/456/.html" title="微信自定义开发demo" target="_blank">微信自定义开发demo</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/545/.html" title="ThinkPHP3.2.2完全开发手册【CHM】" target="_blank">ThinkPHP3.2.2完全开发手册【CHM】</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/543/.html" title="ThinkPHP3.2.2完整版" target="_blank">ThinkPHP3.2.2完整版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/295/.html" title="微信公众平台API接口扩展包" target="_blank">微信公众平台API接口扩展包</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/267/.html" title="ThinkPHP3.1.2完全开发手册CHM[2013-01-10]" target="_blank">ThinkPHP3.1.2完全开发手册CHM[2013-01-10]</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/238/.html" title="ThinkPHP示例：图片上传" target="_blank">ThinkPHP示例：图片上传</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/611/.html" title="ThinkPHP3.2.3核心版" target="_blank">ThinkPHP3.2.3核心版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/235/.html" title="ThinkPHP示例：RBAC" target="_blank">ThinkPHP示例：RBAC</a>
+							</li>					</ul>
+				</div>
+			</div>
+
+			<!-- 相关链接 -->
+			<div class="box suggestion">
+				<div class="index-hd cf">
+					<div class="title"><i class="t-icon"></i><em>相关链接</em></div>
+				</div>
+
+				<div class="index-bd">
+					<ul class="list ellipsis">
+						<li>
+								<i class="list-arrow"></i><a href="/down/924/.html" title="开发系统数据同步到远程数据库" target="_blank">开发系统数据同步到远程数据库</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/923/.html" title="专门针对Thinkphp爬虫的网页抓取扩展类" target="_blank">专门针对Thinkphp爬虫的网页抓取扩展类</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/922/.html" title="Thinkphp3.2.3第三方登录扩展类源码" target="_blank">Thinkphp3.2.3第三方登录扩展类源码</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/919/.html" title="PHP微信机器人自动回复" target="_blank">PHP微信机器人自动回复</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/918/.html" title="ThinkPHP5.0.6核心版" target="_blank">ThinkPHP5.0.6核心版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/917/.html" title="Thinkphp阿里云如何配置ngix" target="_blank">Thinkphp阿里云如何配置ngix</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/916/.html" title="ThinkPHP5.0.5核心版" target="_blank">ThinkPHP5.0.5核心版</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/915/.html" title="ThinkPHP3.2.3 SESSION DB 数据库 PDO 驱动" target="_blank">ThinkPHP3.2.3 SESSION DB 数据库 PDO 驱动</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/914/.html" title="phpzip很完善的系统压缩类" target="_blank">phpzip很完善的系统压缩类</a>
+							</li><li>
+								<i class="list-arrow"></i><a href="/down/913/.html" title="thinkphp5 form 表单生成器" target="_blank">thinkphp5 form 表单生成器</a>
+							</li>					</ul>
+				</div>
+			</div>
+			
+		</div>
+
+		<!-- 右边边栏 -->
+		<div class="sidebar">
+			<div class="box">
+				<div class="index-hd cf">
+					<div class="title"><i class="t-icon"></i><em>捐赠我们</em></div>
+				</div>
+
+				<div class="index-bd">
+				用手机扫描二维码支付<br/> <img src="/Uploads/editor/2014-05-07/5369df9ce9d5d.png" alt="用手机扫描二维码支付" />
+				</div>
+			</div>
+
+			<!-- 关注我们 -->
+			<div class="box follow">
+				<div class="index-hd cf">
+					<div class="title"><i class="t-icon"></i><em>关注我们</em></div>
+				</div>
+
+				<div class="index-bd follow">
+					<a class="fsina" href="http://weibo.com/thinkphp" title="新浪微博" target="_blank"><i></i>新浪微博</a>
+					<a class="ftencent" href="http://t.qq.com/topthink" title="腾讯微博" target="_blank"><i></i>腾讯微博</a>
+					<a href="/rss/info.html" class="frss" target="_blank" title="rss订阅"><i></i>RSS订阅</a>
+				</div>
+			</div>
+			<!-- /关注我们 -->
+			
+			<!-- 订阅 -->
+			<form method="post" target="_blank" action="http://list.qq.com/cgi-bin/qf_compose_send" class="rss" id="rssForm">
+				<input type="hidden" value="qf_booked_feedback" name="t">
+                <input type="hidden" value="99e976340812fea881e5cfac31c46b1dbb5b5aa8bfe415f5" name="id">
+				<input type="text" class="rss-adr" type="text" value="" placeholder="请输入邮件地址..." name="to" id="to">
+				<span class="rss-btn" id="rssSubmit"><i></i>订阅</span>
+			</form>
+			<!-- /订阅 -->
+
+			<!-- 捐赠我们列表 -->
+			<div class="box side-donate">
+				<div class="index-hd">
+					<a href="/donate.html" class="more" target="_blank">更多>></a>
+					<div class="title"><i class="t-icon"></i><em>捐赠我们</em></div>
+				</div>
+				<div class="index-bd">
+					<ul class="ellipsis">
+					<li class="cf">
+							<span class="user">段樟根：</span>
+							<span class="txt" title="账户码-转账">账户码-转账</span>
+						</li><li class="cf">
+							<span class="user">陆元：</span>
+							<span class="txt" title="账户码-转账">账户码-转账</span>
+						</li><li class="cf">
+							<span class="user">晴：</span>
+							<span class="txt" title="账户码-转账">账户码-转账</span>
+						</li><li class="cf">
+							<span class="user">立国：</span>
+							<span class="txt" title="账户码-转账">账户码-转账</span>
+						</li><li class="cf">
+							<span class="user">小宝：</span>
+							<span class="txt" title="希望继续做下去，钱少是心意，以后还会捐">希望继续做下去，钱少是心意，以后还会捐</span>
+						</li><li class="cf">
+							<span class="user">光定：</span>
+							<span class="txt" title="不要嫌弃……">不要嫌弃……</span>
+						</li><li class="cf">
+							<span class="user">泰峰：</span>
+							<span class="txt" title="加油">加油</span>
+						</li><li class="cf">
+							<span class="user">智勇：</span>
+							<span class="txt" title="刘大哥加油">刘大哥加油</span>
+						</li>					</ul>
+				</div>
+			</div>
+
+			<!-- 广告 -->
+			<div class="a6">
+				<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- 正方形 -->
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:250px;height:250px"
+				     data-ad-client="ca-pub-2076739524120221"
+				     data-ad-slot="8248687447"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({ });
+				</script>
+			</div>
+		</div>
+		<!-- /右边边栏 -->
+
+	</div>
+<script type="text/javascript">
+$(function(){
+	$('#rssSubmit').click(function(){
+		$('#rssForm').submit();
+	});
+	//倒计时
+	var interval;
+	function stop(now){
+		if(parseInt($('#second').text()) <= 1 || now){
+			$('#down').children(":first").click();
+		}else{
+			$('#second').text(parseInt($('#second').text()) - 1);
+		}	
+	}
+	interval = setInterval(stop, 1000);
+
+	$('#down').click(function(){
+		clearInterval(interval);
+		$('#second').parent().hide();
+	});
+})
+</script>
+
+<!-- 底部 -->
+<div class="footer">
+	<div class="ft-main cf">
+		<div class="ft-col">
+			<h3>我们</h3>
+			<ul>
+				<li><a href="/about/index.html">关于我们</a></li>
+				<li><a href="/7year.html">公司动态</a></li>
+				<li><a href="/about/contact.html">联系我们</a></li>
+				<li><a href="/about/disclaimer.html">免责声明</a></li>
+				<li><a href="/about/join_us.html">加入我们</a></li>
+				<li><a href="/about/donate.html">捐赠我们</a></li>
+			</ul>
+		</div>
+		<div class="ft-col">
+			<h3>合作</h3>
+			<ul>
+				<li><a href="/cooperation/training.html">技术培训</a></li>
+				<li><a href="/cooperation/adcoop.html">广告合作</a></li>
+				<li><a href="/cooperation/projectcoop.html">项目合作</a></li>
+				<li><a href="/cooperation/investcoop.html">投资合作</a></li>
+				<li><a href="/cooperation/partner.html">合作伙伴</a></li>
+				<li><a href="/cooperation/bussiness.html">商务合作</a></li>
+			</ul>
+		</div>
+		<div class="ft-col">
+			<h3>网站</h3>
+			<ul>
+				<li><a href="/rss.html">RSS订阅</a></li>
+				<li><a href="/help/contribute.html">投稿指南</a></li>
+				<li><a href="/help/sitehelp.html">网站帮助</a></li>
+				<li><a href="/link/index.html">友情链接</a></li>
+			</ul>
+		</div>
+		<div class="ft-col">
+			<h3>信息</h3>
+			<ul>
+				<li><a href="/update/index.html">更新列表</a></li>
+				<li><a href="/bug/index.html">BUG反馈</a></li>
+				<li><a href="/topic/index.html">技术讨论</a></li>
+				<li><a href="/info/index.html">教程资讯</a></li>
+			</ul>
+		</div>
+		<div class="ft-intro">
+			<div class="btm-logo">
+				<p>ThinkPHP 是一个免费开源的，快速、简单的面向对象的 轻量级PHP开发框架 ，创立于2006年初，遵循Apache2开源协议发布，是为了敏捷WEB应用开发和简化企业应用开发而诞生的。ThinkPHP从诞生以来一直秉承简洁实用的设计原则，在保持出色的性能和至简的代码的同时，也注重易用性。并且拥有众多的原创功能和特性，在社区团队的积极参与下，在易用性、扩展性和性能方面不断优化和改进，已经成长为国内最领先和最具影响力的WEB应用开发框架，众多的典型案例确保可以稳定用于商业以及门户级的开发。</p>
+				<div class="copyright">沪ICP备12007941号-2<a style="margin-left: 25px" href="http://www.topthink.net" target="_blank">本网站由顶想科技维护支持</a></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /底部 -->
+
+<div class="hidden">
+    <script charset="UTF-8" src="http://tajs.qq.com/stats?sId=8801910" type="text/javascript"></script>
+</div>
+</body>
+</html>

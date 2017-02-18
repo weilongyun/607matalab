@@ -1,0 +1,30 @@
+[ 2016-09-09T10:40:09+08:00 ] 114.247.56.233 /tp/Public//tp/PublicScripts/mediav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T10:40:34+08:00 ] 114.247.56.233 /tp/Public//images/ehaier-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T10:40:36+08:00 ] 114.247.56.233 /tp/Public//mobile/common/navigate.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T10:41:00+08:00 ] 114.247.56.233 /tp/Public//mobile/cart/myCart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-09T11:43:20+08:00 ] 125.223.2.49 /tp/Public//tp/PublicScripts/mediav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: 无法加载模块:Public
+

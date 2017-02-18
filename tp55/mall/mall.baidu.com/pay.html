@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <meta name="baidu-site-verification" content="ZEXvy8Xkma" />
+        <link rel="dns-prefetch" href="//mallcmscdn.baidu.com">
+        <link rel="dns-prefetch" href="//mallcdn.baidu.com">
+        <link rel="dns-prefetch" href="//hm.baidu.com">
+        <link rel="dns-prefetch" href="//bcscdn.baidu.com">
+        <link rel="dns-prefetch" href="//bj.bcebos.com">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>登录-百度MALL
+</title>
+
+        <link rel="shortcut icon" href="http://mallcdn.baidu.com/static/2016033051016/favicon.ico" >
+        <script src="js/core.js"></script>
+
+        <script>
+            require.config({
+        'waitSeconds': 30,
+        'baseUrl': 'http://mallcdn.baidu.com/static/2016033051016/js',
+        'packages': [
+            {
+                'name': 'echarts',
+                'location': '../dep/echarts/2.2.7/src',
+                'main': 'echarts'
+            },
+            {
+                'name': 'zrender',
+                'location': '../dep/zrender/2.1.1/src',
+                'main': 'zrender'
+            }
+        ]
+    });
+        </script>
+
+<link rel="stylesheet" href="css/login.css">
+
+        <script>
+        var cr = Math.floor(Math.random() * 99999);
+        var activityId = '';
+        var pageId = '' ? '' : 0;
+        var rtTag = $.stringifyJSON();
+
+        // if (location.href.indexOf('mall.baidu.com') !== -1) {
+            var _hmt = _hmt || [];
+            var siteId = 'd64af1f3b8e241d56f0536501d4bfdd6';
+            _hmt.push(['_setAccount', siteId]);
+            _hmt.push(['_setAutoPageview', false]);
+
+            if (rtTag) {
+                _hmt.push(['_trackRTEvent', {
+                    data: $.parseJSON(rtTag)
+                }]);
+            }
+
+            trackPageViewTJ(siteId, '', '');
+            if ('' !== '') {
+                require(['common/md5'], function (md5) {
+                    var merchantSiteId = md5('');
+                    _hmt.push(['_setAccount', merchantSiteId]);
+                    _hmt.push(['_setAutoPageview', true]);
+                    deployBaiduTJ(merchantSiteId);
+                });
+            // }
+        }
+
+        </script>
+    </head>
+    <body>
+        <script>
+            var GLOBAL_CONF = {"debug":false,"passport":{"host":"passport.baidu.com","tpl":"bdmall"},"site":{"siteId":7202944,"ucId":10914574}};
+        </script>
+<script type="text/javascript" src="js/wrapper.js">
+</script>
+<div id="headline" class="container">
+    <div class="register-wrap">
+       <span>还没有百度账号</span><a href="http://passport.baidu.com/v2/?reg&tpl=bdmall&u=http://mall.baidu.com/order/pay?order=16041710097506797&amp;payAmount=537.00&amp;payTimeOut=1460990815000&amp;payParam=customerId=39&amp;deviceType=3&amp;extData={&quot;pass&quot;:&quot;{\&quot;offline_pay\&quot;:1}&quot;,&quot;spData&quot;:&quot;61366o3SMCIkgmzKDzi9IIoz%2B4L4hge2HzDARpothjQO8NJVWKggtwthmmmRXGeIxs8RPzLN8tKeFLahUZ%2BeXT03xaLr7Rug8Yi0apHXvDQimdemu9zHcAAb%2Bco6e3e%2Fi%2BRCC5sBkIRyTeAykg2CkaYEorDQmphS3FGp6T3FH1x5f3gI358beE7bcqU&quot;}&amp;itemInfo=[{&quot;id&quot;:94336,&quot;number&quot;:1,&quot;price&quot;:52900,&quot;name&quot;:&quot;芭蒂娜2015欧洲站秋季新品 拼接长袖印花秋装a字连衣裙 修身显瘦&quot;}]&amp;mobile=&amp;notifyUrl=http://mallpc.baidu.com/paycenter/payNotify&amp;orderId=639949&amp;originalAmount=52900&amp;passuid=1296660767&amp;payAmount=53700&amp;returnUrl=http://mall.baidu.com/order/payStatus?orderNos=16041710097506797&amp;service=cashier&amp;title=百付宝交易，订单：16041710097506797&amp;tpl=10&amp;sign=776b8d62331c307289c05d1272cab868&amp;tg=sv.18061262986301460904315070046_exp.&amp;tr=cp.8_pr.42735" class="reg-btn">免费注册</a>
+    </div>
+    <div class="logo-wrap">
+        <a href="/"><img class="logo" src="img/mall_logo.png"/></a>
+        <p>
+            <span class="spacer" >|</span>
+            <span class="welecome">欢迎登录</span>
+        </p>
+    </div>
+</div>
+
+<div class="login-container">
+    <div class="container">
+        <div class="bgimg"></div>
+        <div class="login-box">
+            <div class="login-title">登录百度MALL</div>
+            <div class="login-wrap">
+                <div id="login" >
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <a href="/footer/helpCenter/aboutUs" target="_blank">关于我们</a>
+    |
+    <a href="http://www.baidu.com/duty/yinsiquan.html" target="_blank">隐私声明</a>
+    |
+    <a href="http://mallzs.baidu.com/#/home" target="_blank">商家入驻</a>
+    <br/>
+    <a href="http://www.miitbeian.gov.cn/state/outPortal/loginPortal.action" target="_blank">京ICP证030173号</a>
+    |
+    <a href="/footer/businessLicence" target="_blank">营业执照信息</a>
+    ©2015-2016 baidu.com版权所有
+</div>
+
+
+<script>
+    var homePage = 'http://' + location.host;
+    var product = GLOBAL_CONF.passport.tpl || 'baidumall';
+    var passportDomain = 'http://' + GLOBAL_CONF.passport.host || 'http://passport.baidu.com';
+
+    passport.use('login', {
+        tangram:true
+    }, function(magic){
+        var login = new magic.passport.login({
+            product : product,
+            loginType: 1,
+            defaultCss:false,//是否加载CSS
+            loginMerge:true,//是否合并
+            hasRegUrl:false,//是否有注册链接
+            autosuggest:true,//是否自动提示
+            hasPlaceholder:true,//是否有placeholder
+            authsiteLogin:['qzone','tsina'],//第三方登录
+            sms:true,//短信登录
+            u:'http://mall.baidu.com/order/pay?order=16041710097506797&amp;payAmount=537.00&amp;payTimeOut=1460990815000&amp;payParam=customerId=39&amp;deviceType=3&amp;extData={&quot;pass&quot;:&quot;{\&quot;offline_pay\&quot;:1}&quot;,&quot;spData&quot;:&quot;61366o3SMCIkgmzKDzi9IIoz%2B4L4hge2HzDARpothjQO8NJVWKggtwthmmmRXGeIxs8RPzLN8tKeFLahUZ%2BeXT03xaLr7Rug8Yi0apHXvDQimdemu9zHcAAb%2Bco6e3e%2Fi%2BRCC5sBkIRyTeAykg2CkaYEorDQmphS3FGp6T3FH1x5f3gI358beE7bcqU&quot;}&amp;itemInfo=[{&quot;id&quot;:94336,&quot;number&quot;:1,&quot;price&quot;:52900,&quot;name&quot;:&quot;芭蒂娜2015欧洲站秋季新品 拼接长袖印花秋装a字连衣裙 修身显瘦&quot;}]&amp;mobile=&amp;notifyUrl=http://mallpc.baidu.com/paycenter/payNotify&amp;orderId=639949&amp;originalAmount=52900&amp;passuid=1296660767&amp;payAmount=53700&amp;returnUrl=http://mall.baidu.com/order/payStatus?orderNos=16041710097506797&amp;service=cashier&amp;title=百付宝交易，订单：16041710097506797&amp;tpl=10&amp;sign=776b8d62331c307289c05d1272cab868&amp;tg=sv.18061262986301460904315070046_exp.&amp;tr=cp.8_pr.42735',
+            isPhone: false,
+            safeFlag: 0,
+            staticPage: homePage + '/v3Jump.html'
+        });
+        login.render('login');
+    });
+</script>
+        <script>
+        if ('' !== '') {
+            require(['common/md5'], function (md5) {
+                var merchantSiteId = md5('');
+                clearBaiduTJ('', merchantSiteId);
+            });
+        }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+[ 2016-10-08T08:46:29+08:00 ] 123.151.64.143 /tp/Public//tp/PublicScripts/mediav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-08T08:46:36+08:00 ] 123.151.64.143 /tp/Public//images/ehaier-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-08T08:49:35+08:00 ] 101.226.89.119 /tp/Public//tp/PublicScripts/mediav.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:Public
+

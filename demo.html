@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="./add.js"></script>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1, user-scalable=no">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="format-detection" content="telephone=no"/>
+    <style>
+        html, body, div, span,
+        h1{
+            margin: 0;
+            padding: 0;
+            border: 0;
+            outline: 0;
+        }
+        body{
+            width: 100%;
+            height: 100%;
+            line-height: 1.85;
+            font-family: "微软雅黑", sans-serif;
+        }
+        }
+        ul{
+            display: block;
+            list-style-type: disc;
+            -webkit-margin-before: 1em;
+            -webkit-margin-after: 1em;
+            -webkit-margin-start: 0px;
+            -webkit-margin-end: 0px;
+            -webkit-padding-start: 40px;
+            padding-left: 0px;
+        }
+
+        .relative{
+            position: relative;
+        }
+        .fullwidth{
+            width:100%;
+        }
+        .index-nav{
+            line-height: 22px;
+            background-color: #08B885;
+
+            overflow: hidden;
+
+        }
+        a, a:link, a:visited, a:hover, a:active{
+            /*color: #4A4A4A; */
+            text-decoration: none;
+            cursor: pointer;
+            outline: none;
+        }
+        .a-style{
+
+            padding-top: 10px;
+            margin-right: 20px;
+            float: left;
+            position: absolute;
+        }
+        .textc{text-align: center;}
+        .shade{
+            z-index: 99;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.6);
+            width:100%;
+            height:100%;
+        }
+        .hidden{
+            display: none;
+        }
+
+        /*三级联动*/
+
+        .dataAdd {
+            background-color: #f1f1f1;
+            height: 230px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            transition: all .2s;
+            -webkit-transition: all .2s;
+            margin-bottom: -230px;
+            z-index: 1000;
+        }
+        .box_btn {
+            height: 40px;
+            line-height: 40px;
+            background-color: #fff;
+            padding: 0 20px;
+        }
+        #determine {
+            float: right;
+        }
+        #box {
+            height: 200px;
+            overflow: hidden;
+            -webkit-mask: -webkit-gradient(linear, 0% 50%, 0% 0%, from(#debb47), to(rgba(36, 142, 36, 0)));
+            transition: all .2s;
+        }
+        #box .box_info > div {
+            float: left;
+            width: 33.33%;
+            text-align: center;
+        }
+        #box .box_info > div ul {
+            position: relative;
+            z-index: 10;
+        }
+        #box .box_info > div ul li {
+            line-height: 30px;
+            overflow: hidden;
+            height: 30px;
+        }
+        .box_info {
+            -webkit-mask: -webkit-gradient(linear, 0% 50%, 0% 100%, from(#debb47), to(rgba(36, 142, 36, 0)));
+            overflow: hidden;
+            height: 200px;
+            position: relative;
+        }
+        .border {
+            border: 1px solid #ccc;
+            position: absolute;
+            height: 30px;
+            top: 50%;
+            margin-top: -30px;
+            width: 33.33%;
+            border-left: none;
+            border-right: none;
+        }
+        #city + .border {
+            left: 33.33%;
+        }
+        #area + .border {
+            left: 66.66%;
+        }
+        .inp {
+            margin: 20px auto;
+            width: 90%;
+            display: block;
+            height: 30px;
+            line-height: 30px;
+            border-radius: 5px;
+            border: none;
+            border: 1px solid #999;
+            padding-left: 15px;
+            box-sizing: border-box;
+        }
+        .current-city {
+            position: absolute;
+            left: 41%;
+        }
+    </style>
+</head>
+<body >
+<div class="fullwidth relative ">
+
+    <div class="index-nav pagn clearfix">
+        <a id="mycity" class="a-style" href="javascript:void(0);"><span id="city-name">请选择城市</span></a>
+        <h1 class=" textc ">demo-TITLE</h1>
+    </div>
+</div>
+<div id="shade" class="shade hidden "></div>
+<script src="./add.js"></script>
+<script>
+    new region({
+        dataSrc:'./add.json',
+        defaultCity:'广州',
+        grade:'3',
+        poster: 'mycity',
+        shade: 'shade',
+        callback: function (city) {
+            document.getElementById('city-name').innerHTML=city||'';
+            console.log("city: "+city);
+        }
+
+    });
+</script>
+</body>
+</html>

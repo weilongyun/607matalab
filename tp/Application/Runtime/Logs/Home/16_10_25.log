@@ -1,0 +1,11 @@
+[ 2016-10-25T19:56:29+08:00 ] 58.247.206.142 /tp/index.php?signature=983597905b3d8f3da86b35de2fade51368ce2dde&timestamp=1477396589&nonce=1123557916&openid=oJaCKxGYhS4J56EEtoSxBpBbZt6w
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
